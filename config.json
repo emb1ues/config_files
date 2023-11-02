@@ -1,0 +1,15 @@
+{
+  "segments": [
+    "virtual_env",
+    "username",
+    "ssh",
+    "cwd",
+    "git",
+    "hg",
+    "jobs",
+    "newline",
+    "root"
+  ],
+  "theme": "~/.config/powerline-shell/nord.py"
+}
+
